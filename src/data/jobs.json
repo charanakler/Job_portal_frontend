@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "title": "Junior Python Developer",
+    "company": "Tech Solutions",
+    "location": "Hyderabad",
+    "experience": "0-1 Years",
+    "salary": "3-5 LPA",
+    "type": "Full Time",
+    "workMode": "On-site",
+    "skills": ["Python", "Django", "Django REST Framework", "MySQL"],
+    "description": "We are looking for a Junior Python Developer to join our development team.",
+    "requirements": [
+      "Good knowledge of Python",
+      "Basic knowledge of Django",
+      "Understanding of REST APIs",
+      "Knowledge of MySQL"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "React JS Developer",
+    "company": "Web Innovations",
+    "location": "Hyderabad",
+    "experience": "0-2 Years",
+    "salary": "3-6 LPA",
+    "type": "Full Time",
+    "workMode": "Hybrid",
+    "skills": ["React", "JavaScript", "HTML", "CSS"],
+    "description": "Looking for a React developer to build modern and responsive web applications.",
+    "requirements": [
+      "Knowledge of React",
+      "JavaScript fundamentals",
+      "HTML and CSS",
+      "Understanding of React Router"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Python Full Stack Developer",
+    "company": "Digital Works",
+    "location": "Bangalore",
+    "experience": "0-2 Years",
+    "salary": "4-7 LPA",
+    "type": "Full Time",
+    "workMode": "Remote",
+    "skills": ["Python", "Django", "React", "MySQL"],
+    "description": "Join our team as a Python Full Stack Developer and work on modern web applications.",
+    "requirements": [
+      "Python programming",
+      "Django framework",
+      "React JS",
+      "Database knowledge"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Frontend Developer",
+    "company": "Creative Labs",
+    "location": "Hyderabad",
+    "experience": "0-1 Years",
+    "salary": "2.5-4 LPA",
+    "type": "Full Time",
+    "workMode": "On-site",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "description": "We are looking for a frontend developer to create responsive user interfaces.",
+    "requirements": ["HTML", "CSS", "JavaScript", "React basics"]
+  }
+]
