@@ -1,4 +1,4 @@
-import jobs from "./data/jobs.json";
+
 import "./App.css";
 import { BrowserRouter } from "react-router-dom";
 import Navbar from "./components/Navbar";
